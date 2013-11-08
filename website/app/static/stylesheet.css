@@ -1,3 +1,31 @@
 body {
+	font-family:Verdana;
+}
+
+.header {
+	position:relative;
+	margin-left:auto;
+	text-align:center;
+}
+
+div {
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.cardnotes {
+	position:relative;
+	text-align:center;
+	margin-left:10%;
+	margin-right:10%;
+	border-radius:5px;
 	background-color:#99ccff;
+}
+
+.orderbutton {
+	font-size:2em;
+	text-align:center;
+	margin-left:30%;
+	margin-right:30%;
 }
